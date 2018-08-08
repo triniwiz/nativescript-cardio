@@ -1,0 +1,1 @@
+module CardIO { explicit module CardIO { header "CardIO.h" header "CardIOCreditCardInfo.h" header "CardIODetectionMode.h" header "CardIOPaymentViewController.h" header "CardIOPaymentViewControllerDelegate.h" header "CardIOUtilities.h" header "CardIOView.h" header "CardIOViewDelegate.h" } }

@@ -1,0 +1,7 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" loaded="pageLoaded" class="page"
+  xmlns:ui="nativescript-cardio">
+  <StackLayout class="p-20">
+    <Button text="Scan Card" tap="scan"/>
+    <Image id="image"/>
+  </StackLayout>
+</Page>

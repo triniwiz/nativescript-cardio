@@ -1,0 +1,4 @@
+HEADER_SEARCH_PATHS = $(inherited) ${PROJECT_DIR}/../../node_modules/nativescript-cardio/platforms/ios/include
+OTHER_LDFLAGS = $(inherited) -framework Accelerate -framework AudioToolbox -framework AVFoundation -framework CoreGraphics -framework CoreMedia -framework CoreVideo -framework Foundation -framework MobileCoreServices -framework OpenGLES -framework QuartzCore -framework Security -framework UIKit -lz -lc++ -all_load
+CLANG_ENABLE_MODULES = YES
+CLANG_MODULES_AUTOLINK = YES
